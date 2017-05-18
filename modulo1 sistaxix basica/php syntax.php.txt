@@ -1,0 +1,10 @@
+<html> 
+  <head> 
+    <title> Mi Primera página PHP </ title> 
+  </ head> 
+  <body> 
+  <script language = "php"> 
+    echo "Hello World!"; 
+  </ script>
+   </ body> 
+</ html> 
