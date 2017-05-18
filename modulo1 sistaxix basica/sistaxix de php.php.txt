@@ -1,0 +1,10 @@
+<html> 
+  <head> 
+    <title> Mi Primera página PHP </ title> 
+  </ head> 
+  <body> 
+  <? php?    
+    echo "Hello World!"; 
+  ?>
+   </ Body> 
+</ html>
